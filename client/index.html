@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Messaging App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>  
+     
+    <div id="OverallDivider">
+        
+        <div id="AccountButtons">
+            <button id="login"> LOGIN </button>
+            <button id="register"> REGISTER </button>
+        </div>
+        
+        <div id="MessagingWebApp">
+            <h3>LOGGED IN AS: </h3> 
+            <div id="messages"></div>
+
+            <div id="UserInput">
+                <input type="text" id="input" placeholder="Enter Message">
+                <button id="send">&#129093;</button>
+            </div>
+        </div>
+        
+
+
+
+    </div>
+    
+    
+    
+
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
