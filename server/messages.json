@@ -1,0 +1,37 @@
+[
+  {
+    "message": "yo",
+    "timeStamp": "2025-08-02T23:09:00.493Z",
+    "username": "guest1"
+  },
+  {
+    "message": "yo",
+    "timeStamp": "2025-08-02T23:09:04.752Z",
+    "username": "guest2"
+  },
+  {
+    "message": "what's good",
+    "timeStamp": "2025-08-02T23:09:12.836Z",
+    "username": "guest1"
+  },
+  {
+    "message": "nothing much",
+    "timeStamp": "2025-08-02T23:09:18.035Z",
+    "username": "guest2"
+  },
+  {
+    "message": "what's up guys",
+    "timeStamp": "2025-08-02T23:10:08.525Z",
+    "username": "user"
+  },
+  {
+    "message": "nothing much",
+    "timeStamp": "2025-08-02T23:10:17.055Z",
+    "username": "guest1"
+  },
+  {
+    "message": "gas prices",
+    "timeStamp": "2025-08-02T23:10:22.626Z",
+    "username": "guest2"
+  }
+]
